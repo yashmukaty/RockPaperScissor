@@ -2,3 +2,4 @@ Designed a webpage for Rock paper scissors game using HTML - for designing templ
 front page, CSS - for styling front page and Js - for providing functionality.
 
 This is done by following the Odin's Project.
+Live Preview : https://yashmukaty.github.io/RockPaperScissor/
